@@ -78,6 +78,9 @@ Trie is a tree-like data structure made up of nodes. Nodes can be used to store 
 ![trie](https://user-images.githubusercontent.com/84452695/185153576-275df00e-f16b-4299-a532-8ca912915f63.svg)
 
 
+[References](https://github.com/TheAlgorithms/Python/tree/master/data_structures)
+
+
 
 
 
