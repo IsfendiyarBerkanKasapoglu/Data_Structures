@@ -61,4 +61,13 @@ A linked list in programming terms is an Abstract Data Type that acts as a linea
 Like stack, queue is a linear data structure that stores items in First In First Out (FIFO) manner. With a queue the least recently added item is removed first. A good example of queue is any queue of consumers for a resource where the consumer that came first is served first.
 
 ![queue-enqueue](https://user-images.githubusercontent.com/84452695/185130518-9f7c68fb-7443-47fd-9b8f-1103f38835e9.png)
+<br>
+<br>
+
+## [Stacks](stacks)
+A stack is a linear data structure that stores items in a Last-In/First-Out (LIFO) or First-In/Last-Out (FILO) manner. In stack, a new element is added at one end and an element is removed from that end only. The insert and delete operations are often called push and pop.
+
+![stakcs](https://user-images.githubusercontent.com/84452695/185149165-ef0a52a6-e942-4077-9387-b2eb445fa6a0.png)
+
+
 
