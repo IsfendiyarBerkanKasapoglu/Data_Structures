@@ -46,4 +46,13 @@ Advertisements. Heap is a special tree structure in which each parent node is le
 
 ![Heap-Python-AskPython-Content-1](https://user-images.githubusercontent.com/84452695/185082591-180ae0b0-e4eb-486e-a5ef-7334b368248e.png)
 
+<br>
+<br>
+<br>
+
+## Linked List
+A linked list in programming terms is an Abstract Data Type that acts as a linear collection of data elements organised as a collection of nodes that contains information about what that node contains and then a link to another node.
+
+
+
 
