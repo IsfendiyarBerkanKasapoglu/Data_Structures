@@ -69,5 +69,15 @@ A stack is a linear data structure that stores items in a Last-In/First-Out (LIF
 
 ![stakcs](https://user-images.githubusercontent.com/84452695/185149165-ef0a52a6-e942-4077-9387-b2eb445fa6a0.png)
 
+<br>
+<br>
+
+## [Trie](trie)
+Trie is a tree-like data structure made up of nodes. Nodes can be used to store data. Each node may have none, one or more children. When used to store a vocabulary, each node is used to store a character, and consequently each "branch" of the trie represents a unique word.
+
+![trie](https://user-images.githubusercontent.com/84452695/185153576-275df00e-f16b-4299-a532-8ca912915f63.svg)
+
+
+
 
 
