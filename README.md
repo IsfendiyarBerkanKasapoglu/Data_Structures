@@ -54,5 +54,11 @@ Advertisements. Heap is a special tree structure in which each parent node is le
 A linked list in programming terms is an Abstract Data Type that acts as a linear collection of data elements organised as a collection of nodes that contains information about what that node contains and then a link to another node.
 
 
+<br>
+<br>
 
+## [Queue](queue)
+Like stack, queue is a linear data structure that stores items in First In First Out (FIFO) manner. With a queue the least recently added item is removed first. A good example of queue is any queue of consumers for a resource where the consumer that came first is served first.
+
+![queue-enqueue](https://user-images.githubusercontent.com/84452695/185130518-9f7c68fb-7443-47fd-9b8f-1103f38835e9.png)
 
